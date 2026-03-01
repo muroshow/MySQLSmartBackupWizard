@@ -1,9 +1,5 @@
 # 🧙‍♂️ MySQL Smart Backup Wizard (Cross-Platform)
 
-[English](https://www.google.com/search?q=%23english-version) | [Türkçe](https://www.google.com/search?q=%23t%C3%BCrk%C3%A7e-versiyon)
-
----
-
 ## 🇹🇷 Türkçe Versiyon
 
 Bu araç, macOS ve Windows sistemlerinde MySQL veritabanlarınızı ve kullanıcı yetkilerinizi saniyeler içinde yedeklemeniz için tasarlanmış akıllı bir sihirbazdır.

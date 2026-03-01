@@ -15,14 +15,14 @@ Bu araç, macOS ve Windows sistemlerinde MySQL veritabanlarınızı ve kullanıc
 **🍎 macOS:**
 
 ```bash
-curl -L -o ~/Desktop/"MacOS MySQL Smart Backup Wizard.command" "https://raw.githubusercontent.com/muroshow/MySQLBackup/main/MacOS%20MySQL%20Smart%20Backup%20Wizard.command" && chmod +x ~/Desktop/"MacOS MySQL Smart Backup Wizard.command"
+curl -L -o ~/Desktop/"MacOS MySQL Smart Backup Wizard.command" "https://raw.githubusercontent.com/muroshow/MySQLSmartBackupWizard/main/MacOS%20MySQL%20Smart%20Backup%20Wizard.command" && chmod +x ~/Desktop/"MacOS MySQL Smart Backup Wizard.command"
 
 ```
 
 **🪟 Windows:**
 
 ```powershell
-powershell -Command "iwr -outf $HOME\Desktop\'Windows MySQL Smart Backup Wizard.ps1' 'https://raw.githubusercontent.com/muroshow/MySQLBackup/main/Windows%20MySQL%20Smart%20Backup%20Wizard.ps1'"
+powershell -Command "iwr -outf $HOME\Desktop\'Windows MySQL Smart Backup Wizard.ps1' 'https://raw.githubusercontent.com/muroshow/MySQLSmartBackupWizard/main/Windows%20MySQL%20Smart%20Backup%20Wizard.ps1'"
 
 ```
 
